@@ -1,4 +1,4 @@
-# 42-philosophers
+# Philosophers
 
 <img width="500" alt="diningphilosphers" src="https://user-images.githubusercontent.com/87010618/215524378-172ce67b-d660-4de0-b467-7c7d242c92e2.png">
 
