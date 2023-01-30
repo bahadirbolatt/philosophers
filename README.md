@@ -1,4 +1,7 @@
 # 42-philosophers
+
+<img width="500" alt="diningphilosphers" src="https://user-images.githubusercontent.com/87010618/215524378-172ce67b-d660-4de0-b467-7c7d242c92e2.png">
+
 Dining philosophers problem is a problem created by Edsger Wybe Dijkstra in 1965 to explain the deadlock state of an operating system, which is traditionally commonly introduced in lectures on operating systems.
 Eat, Sleep, Spaghetti, repeat. This project is about learning how threads work by precisely timing a group of philosophers on when to pick up forks and eat spaghetti without dying from hunger. In this project, you will learn the basics of threading a process. You will see how to create threads and you will discover mutexes.
 
@@ -109,11 +112,5 @@ Fifth argument number_of_times_each_philosopher_must_eat: the number of times ph
 
 ## Useful pthread_join
 
-Function waits for the thread specified by thread to terminate.  If that thread has already terminated, then pthread_join() returns immediately.
 
-<p align="center">
-	<img  src="https://user-images.githubusercontent.com/84707645/138156548-29624bdc-f60f-4bd1-8bad-e6947df8b2a1.gif" width="572" height="930" /> 
-</p>
-<p align="center">
-	<img  src="https://user-images.githubusercontent.com/84707645/138157129-24054268-6f6f-4e55-83e4-04f8fec2714e.gif" width="572" height="930" /> 
-</p>
+Function waits for the thread specified by thread to terminate.  If that thread has already terminated, then pthread_join() returns immediately.
